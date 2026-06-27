@@ -2,7 +2,7 @@
 # Descripción del Proyecto
 Este proyecto es una solución informática desarrollada como parte del Proyecto Integrador de la asignatura. El objetivo principal es analizar el impacto de las nuevas tecnologías en la sociedad mediante el desarrollo de una herramienta funcional que aplica conceptos de programación estructurada, lógica de decisiones y arquitectura de software.
 
-Estudiante
+# Estudiante
 Nombre: Alexis Adrián Insuasti Quinde.
 
 Fecha: 27 de junio de 2026.
