@@ -60,3 +60,16 @@ Lenguaje: Python.
 Control de Versiones: GitHub.
 
 Metodología: Programación funcional y diseño basado en arquitectura de capas.
+
+# Video
+
+## Demostrativo
+https://github.com/user-attachments/assets/d9160db7-0e66-4891-bf93-c71ccb739d3a
+
+
+
+
+## Explicativo
+https://github.com/user-attachments/assets/72eacd99-be6d-4375-81b2-e98e46eca92a
+
+
